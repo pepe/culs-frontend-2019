@@ -32,10 +32,6 @@ title: The Intro
 
 ---
 
-# Project
-
----
-
 ## Theory
 
 * Tools
@@ -43,6 +39,10 @@ title: The Intro
 * Presentation
 * Scripting
 * PWA
+
+---
+
+# Project
 
 ---
 
