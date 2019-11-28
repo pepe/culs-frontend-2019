@@ -10,6 +10,7 @@
 - [Get Atom](https://atom.io/)
 - [Atom Packages](https://atom.io/packages)
 - [Get Visual Studio Code](https://code.visualstudio.com)
+- [Get Brackets](http://brackets.io)
 - [Get Google Chrome Canary](https://www.google.com/chrome/browser/canary.html)
 - [JSBin](http://jsbin.com)
 - [Microservices](https://en.wikipedia.org/wiki/Microservices)
