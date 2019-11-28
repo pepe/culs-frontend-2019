@@ -2,30 +2,39 @@
 
 ---
 
-Only group of only one
+Only group of only two
 
 Josef Pospíšil
 
----
 
-+Pratap Modhvadiya
-+Ladislav Vondruska
-+Davit Demuria
+Elene Vadatchkoria
 
 ---
 
-Members Of Group:
+Pratap Modhvadiya
+
+Ladislav Vondruska
+
+Davit Demuria
+
+---
 
 Nooshin Assadi Karam
+
 Seyed Ali Sadat Mousavi
+
 Myint Myat Thazin
+
 Meron Ashame
 
 ---
 
 Mohamad Abdulrahman
+
 Hossain MD Ujjal
+
 Tanim Sakibul Alom
+
 Yoginkumar Vaniya
 
 ---
