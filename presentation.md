@@ -373,6 +373,16 @@ Speak now, or be silent for the course
 * npm
 * Next semester
 
+===
+
+---
+author: Pepe
+date: 2019-11-28
+title: The Outro
+---
+
+# Frontend developer Roadmap
+
 ---
 
 ## Story - all together
