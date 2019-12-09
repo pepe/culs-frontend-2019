@@ -44,6 +44,8 @@ Kodzitsey Carrethers Kofi
 
 [Project Repo](https://github.com/pratap-m/intro/)
 
+---
+
 Nooshin Assadi Karam
 
 Seyed Ali Sadat Mousavi
