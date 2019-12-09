@@ -8,6 +8,8 @@ Josef Pospíšil
 
 Elene Vadatchkoria
 
+[Content repository](https://github.com/pepe/our-awesome-portfolio)
+
 ---
 
 Fati Sylqa 
@@ -69,8 +71,14 @@ Aakash Parmar
 Kartikeya Bhardwaj
 
 ---
+
 Konsantinos Zacharakis
 
 Anouk Mechain
 
 Alina Topchyi
+
+---
+
+Chennuru Rakesh Reddy
+
