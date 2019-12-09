@@ -12,6 +12,12 @@ Elene Vadatchkoria
 
 ---
 
+Vladislav Rakita
+
+Petr Bartonicek
+
+---
+
 Fati Sylqa 
 
 Alket Shabani
