@@ -18,7 +18,7 @@ Alket Shabani
 
 Issa Basiru
 
-Braschi velasquez Giancarloi
+Braschi velasquez Giancarlo
 
 [Content Repo](https://github.com/alketshabani/our-awsome-portofolio)
 
