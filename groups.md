@@ -40,7 +40,9 @@ Davit Demuria
 
 Kodzitsey Carrethers Kofi
 
----
+[Project URL](https://pratap-m.github.io/intro/)
+
+[Project Repo](https://github.com/pratap-m/intro/)
 
 Nooshin Assadi Karam
 
