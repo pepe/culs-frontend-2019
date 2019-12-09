@@ -10,6 +10,8 @@ Elene Vadatchkoria
 
 simran virk
 
+Chennuru Rakesh Reddy
+
 [Content repository](https://github.com/pepe/our-awesome-portfolio)
 
 ---
@@ -96,5 +98,4 @@ Alina Topchyi
 
 ---
 
-Chennuru Rakesh Reddy
 
