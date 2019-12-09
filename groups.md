@@ -7,6 +7,7 @@ Only group of only two
 Josef Pospíšil
 
 Elene Vadatchkoria
+
 simran virk
 
 [Content repository](https://github.com/pepe/our-awesome-portfolio)
