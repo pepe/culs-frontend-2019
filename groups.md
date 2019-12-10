@@ -60,7 +60,9 @@ Myint Myat Thazin
 
 Meron Ashame
 
-Project URL  https://myintmyatthazin.github.io/Portifolio_Project_SB/index.html
+[Project URL](https://myintmyatthazin.github.io/Portifolio_Project_SB/)
+
+[Project Repo](https://github.com/MyintMyatThazin/Portifolio_Project_SB)
 
 ---
 
