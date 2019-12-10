@@ -12,6 +12,8 @@ simran virk
 
 Rajesh Kumar
 
+Chennuru Rakesh Reddy
+
 [Content repository](https://github.com/pepe/our-awesome-portfolio)
 
 ---
@@ -19,6 +21,8 @@ Rajesh Kumar
 Vladislav Rakita
 
 Petr Bartonicek
+
+[Content repo](https://github.com/riddya85/study-block-1)
 
 ---
 
@@ -56,6 +60,8 @@ Myint Myat Thazin
 
 Meron Ashame
 
+Project URL  https://myintmyatthazin.github.io/Portifolio_Project_SB/index.html
+
 ---
 
 Mohamad Abdulrahman
@@ -75,6 +81,8 @@ Margarita Gitcheva
 Andrey Khirnyy
 
 Michal Zawal
+
+[Group Repository](https://github.com/GichevaMargarita/portfolio-tutorial-culs)
 
 ---
 
@@ -98,5 +106,4 @@ Alina Topchyi
 
 ---
 
-Chennuru Rakesh Reddy
 
