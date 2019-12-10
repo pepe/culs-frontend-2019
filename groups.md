@@ -34,7 +34,7 @@ Issa Basiru
 
 Braschi velasquez Giancarlo
 
-[Content Repo](https://github.com/alketshabani/our-awsome-portofolio)
+[Content Repo](https://github.com/alketshabani/study-block)
 
 ---
 
