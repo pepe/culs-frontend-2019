@@ -25,6 +25,7 @@ Vladislav Rakita
 Petr Bartonicek
 
 [Content repo](https://github.com/riddya85/study-block-1)
+[Link to the site](https://riddya85.github.io/study-block-1/)
 
 ---
 
