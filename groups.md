@@ -10,6 +10,8 @@ Elene Vadatchkoria
 
 simran virk
 
+Rajesh Kumar
+
 Chennuru Rakesh Reddy
 
 [Content repository](https://github.com/pepe/our-awesome-portfolio)
