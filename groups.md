@@ -16,6 +16,8 @@ Chennuru Rakesh Reddy
 
 [Content repository](https://github.com/pepe/our-awesome-portfolio)
 
+100%
+
 ---
 
 Vladislav Rakita
