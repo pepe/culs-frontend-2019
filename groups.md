@@ -52,6 +52,8 @@ Kodzitsey Carrethers Kofi
 
 [Project Repo](https://github.com/pratap-m/intro/)
 
+100%
+
 ---
 
 Nooshin Assadi Karam
@@ -65,6 +67,8 @@ Meron Ashame
 [Project URL](https://myintmyatthazin.github.io/Portifolio_Project_SB/)
 
 [Project Repo](https://github.com/MyintMyatThazin/Portifolio_Project_SB)
+
+100%
 
 ---
 
@@ -87,6 +91,8 @@ Andrey Khirnyy
 Michal Zawal
 
 [Group Repository](https://github.com/GichevaMargarita/portfolio-tutorial-culs)
+
+100%
 
 ---
 
