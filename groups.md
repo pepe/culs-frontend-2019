@@ -114,7 +114,7 @@ Aakash Parmar
 Kartikeya Bhardwaj
 
 [Niguss Solomon Group](https://github.com/solomonniguss/Go-for-it-client-side-project-repo-)
-
+[URL] (https://solomonniguss.github.io/Go-for-it-client-side-project-repo-/)
 100%
 
 ---
