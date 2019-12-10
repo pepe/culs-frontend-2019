@@ -2,7 +2,7 @@
 
 ---
 
-Only group of only two
+Only group of only five
 
 Josef Pospíšil
 
@@ -35,6 +35,8 @@ Issa Basiru
 Braschi velasquez Giancarlo
 
 [Content Repo](https://github.com/alketshabani/study-block)
+
+100%
 
 ---
 
