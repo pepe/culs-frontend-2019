@@ -26,6 +26,8 @@ Petr Bartonicek
 
 [Content repo](https://github.com/riddya85/study-block-1)
 
+100%
+
 ---
 
 Fati Sylqa 
@@ -82,6 +84,8 @@ Tanim Sakibul Alom
 
 Yoginkumar Vaniya
 
+
+
 ---
 
 Artemiy Mikheev
@@ -107,6 +111,8 @@ Aakash Parmar
 Kartikeya Bhardwaj
 
 [Niguss Solomon Group](https://github.com/solomonniguss/Go-for-it-client-side-project-repo-)
+
+100%
 
 ---
 
