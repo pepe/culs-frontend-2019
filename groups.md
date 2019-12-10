@@ -20,6 +20,8 @@ Vladislav Rakita
 
 Petr Bartonicek
 
+[Content repo](https://github.com/riddya85/study-block-1)
+
 ---
 
 Fati Sylqa 
