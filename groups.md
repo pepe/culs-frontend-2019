@@ -86,6 +86,8 @@ Yoginkumar Vaniya
 
 [Repo url](https://github.com/ujjalomc/study-block/blob/master/Yogin.html)
 
+100%
+
 ---
 
 Artemiy Mikheev
